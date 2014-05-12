@@ -219,3 +219,8 @@ pip-log.txt
 
 # binary
 *.class
+
+# jar
+*.jar
+*.data
+*.m
